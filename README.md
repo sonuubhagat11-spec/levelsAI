@@ -18,4 +18,4 @@ Run command: dotnet add package LLamaSharp && dotnet add package LLamaSharp.Back
      ./ConsoleApp2
      This runs the app.
 4. Wait for it to download and enjoy.
-   Also the source code folders are outdated and use the release folders.
+Also the source code folders are outdated and use the release folders.
