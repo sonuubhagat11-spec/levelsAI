@@ -15,7 +15,7 @@ class Program
     static async Task Main() {
     Console.WriteLine("yeah so theres gonna be a lot of text but thats ok :-D (pause is intended) !READ READD  btw if your gpu is weak ahh you should save some ram and it might be slower ofc not trying to cal you broke. Its ok though. You need at least 700 MB spare.");
     await Task.Delay(2000);
-        string Finder = @"C:\LLM_Models";
+        string Finder = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.UserProfile), "LLM_Models");
         string modles = Path.Combine(Finder, "Qwen2.5-1.5b-instruct-q8_0.gguf");
         if (!File.Exists(modles))
         {
