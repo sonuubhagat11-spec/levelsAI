@@ -5,6 +5,7 @@
 4. Wait for the model to download and enjoy.
 
 --For macOS and Linux arm64 andx64--
+Run command: dotnet add package LLamaSharp && dotnet add package LLamaSharp.Backend.Cpu
 1. Download folder
 2. Unzip  the folder
 3. Run these conmmands:
