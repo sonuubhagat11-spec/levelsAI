@@ -7,10 +7,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 1.0.0  | :white_check_mark: |
+| on 3rd party os   | :x:                |
+| no python/ollama  | :white_check_mark: |
+| if hacking   | :x:                |
 
 ## Reporting a Vulnerability
 
