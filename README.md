@@ -162,3 +162,4 @@ dotnet add package LLamaSharp.Backend.Cpu
 ```
 
 **These commands are for building the source code and are not normally required when using a pre-built release.**
+##Also, It might say "CPU buffer is complete. You can restart the Console.
